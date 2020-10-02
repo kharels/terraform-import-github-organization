@@ -1,4 +1,5 @@
 #!/usr/bin/env /bin/bash
+# Doesnt handle pagination properly
 set -euo pipefail
 
 ###
